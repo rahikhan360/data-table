@@ -1,3 +1,0 @@
-// !Variable Declarations
-
-// !Main Code
