@@ -18,12 +18,13 @@
 //// Form
 .form {
     background-color: rgb(13, 212, 73);
+    height: 10vh;
 }
 
 //// Table Section
 section.table-section {
     background-color: rgb(253, 143, 244);
-    height: 100vh;
+    height: 80vh;
 
     .table {
         background-color: rgb(130, 80, 248);
@@ -35,4 +36,5 @@ section.table-section {
 //// Footer Seciton
 .footer {
     background-color: rgb(213, 228, 10);
+    height: 10vh;
 }
