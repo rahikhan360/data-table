@@ -1,0 +1,38 @@
+@import "reset";
+
+//! Universal Styles
+.container {
+    width: 80%;
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+.btn {
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+//! Main Styles
+
+//// Form
+.form {
+    background-color: rgb(13, 212, 73);
+}
+
+//// Table Section
+section.table-section {
+    background-color: rgb(253, 143, 244);
+    height: 100vh;
+
+    .table {
+        background-color: rgb(130, 80, 248);
+        height: inherit;
+        width: 100%;
+    }
+}
+
+//// Footer Seciton
+.footer {
+    background-color: rgb(213, 228, 10);
+}
