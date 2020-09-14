@@ -1,3 +1,3 @@
 # Table
 
-Check it out at => https://entry-table.netlify.app/
+Check out the [Live Demo](https://entry-table.netlify.app/)
